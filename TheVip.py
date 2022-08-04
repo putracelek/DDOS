@@ -9,12 +9,6 @@ os.system("clear")
 print ('''\033[96m
 Script by PUTRAKULL  \033[96m''')
 
-pasw = "Putrakull"
-
-for i in range(3):
-    pwd = input(" Password : "Putrakull")
-    j = 3
-    if (pwd == pasw):
         time.sleep(2)
         print("[0] Loading.......")
         time.sleep(1)
