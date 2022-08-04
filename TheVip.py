@@ -1,4 +1,4 @@
-#VipTeam
+#putrakull
 import random 
 import socket
 import threading#1F00C3
